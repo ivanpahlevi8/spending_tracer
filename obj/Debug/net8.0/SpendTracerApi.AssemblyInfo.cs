@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpendTracerApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91dfda21148a67833791b20682c3acb4b009b973")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpendTracerApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpendTracerApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

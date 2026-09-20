@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Ivan Data\Second\Coding\Learn .NET\SpendingTracer\SpendTracerApi\SpendTracerApi\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2026-09-20T02:08:04.4785514Z;True|2026-09-16T10:25:01.2559216+07:00;True|2026-09-16T10:21:08.3583969+07:00;True|2026-09-15T14:40:16.1432329+07:00;True|2026-09-15T14:37:19.3325652+07:00;True|2026-09-15T14:23:16.8460268+07:00;True|2026-09-14T12:12:07.9207496+07:00;True|2026-09-14T11:13:14.6502551+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0eCRkAtHS8Ml6DU37Nz1PJ2YikOQddx/T7G/cdDhNmk=",
+  "Source": "SpendTracerApi",
+  "BasePath": "_content/SpendTracerApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
